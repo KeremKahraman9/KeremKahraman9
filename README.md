@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+I'm Kerem Full Stack Web Developer On <modaltrans>
+
+
+- 🔭 I’m currently working on ecommercial_rails [ecommercial_rails](https://github.com/KeremKahraman9/ecommercial_rails)
+- 🌱 I’m currently learning Ruby On Rails, Postgresql
+- 📫 How to reach me: kerem.kahraman001@gmail.com
+- 😄 My Personal Website: [my-portfolio-website](https://keremkahraman9.github.io/my-portfolio-website/)
 
 <!--
 **KeremKahraman9/KeremKahraman9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
