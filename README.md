@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Kerem Full Stack Web Developer on [**MODALTRANS**](https://modaltrans.com/)
+I'm Kerem Full Stack Web Developer on [**Modaltrans**](https://modaltrans.com/)
 
 
 - 🔭 I’m currently working on ecommercial_rails [ecommercial_rails](https://github.com/KeremKahraman9/ecommercial_rails)
