@@ -3,7 +3,7 @@ I'm Kerem Full Stack Web Developer on [**Modaltrans**](https://modaltrans.com/)
 
 
 - 🌱 Currently learning; Ruby On Rails and Postgresql
-- 🔭 Working on [ecommercial_rails](https://github.com/KeremKahraman9/ecommercial_rails) and [linktree-clone](https://github.com/KeremKahraman9/linktree-clone)
+- 🔭 Working on [ecommercial_rails](https://github.com/KeremKahraman9/ecommercial_rails)
 - 📫 How to reach me: kerem.kahraman001@gmail.com
 - 😄 My Personal Website: [Kerem Kahraman](https://keremkahraman9.github.io/my-portfolio-website/)
 - 🌐 [Linkedin Profile](https://www.linkedin.com/in/kerem-kahraman/)
