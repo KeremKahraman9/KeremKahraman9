@@ -7,7 +7,7 @@ I'm Kerem Full Stack Web Developer on [**Modaltrans**](https://modaltrans.com/)
 - 😄 My Personal Website: [Kerem Kahraman](https://keremkahraman9.github.io/my-portfolio-website/)
 - 🌐 [Linkedin Profile](https://www.linkedin.com/in/kerem-kahraman/)
 - ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square)
-- <!-- - 🔭 Working on [ecommercial_rails](https://github.com/KeremKahraman9/ecommercial_rails) -->
+<!-- - 🔭 Working on [ecommercial_rails](https://github.com/KeremKahraman9/ecommercial_rails) -->
 <!--
 **KeremKahraman9/KeremKahraman9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
