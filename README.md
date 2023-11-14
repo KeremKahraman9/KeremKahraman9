@@ -2,7 +2,7 @@
 I'm Kerem Full Stack Web Developer at [**Modaltrans**](https://modaltrans.com/)
 
 
-- 🌱 Currently working with; Ruby On Rails, Postgresql and Swift
+- 🌱 Currently working with; Ruby On Rails and Postgresql
 - 📫 How to reach me: kerem.kahraman001@gmail.com
 - 😄 My Personal Website: [Kerem Kahraman](https://keremkahraman9.github.io/my-portfolio-website/)
 - 🌐 [Linkedin Profile](https://www.linkedin.com/in/kerem-kahraman/)
